@@ -1,1 +1,9 @@
+{
+  "releaseName": "ch-boomi DEV deployment",
+  "componentType": "process",
+  "componentName": "TestRegex",
+  "componentId": "37cfb586-1717-462c-903f-d385d03c0737",
+  "packageVersion": "1.0.1",
+  "notes": "First DEV deployment PoC"
+}
 
